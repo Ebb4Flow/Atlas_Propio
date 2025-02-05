@@ -27,6 +27,6 @@
         <li><strong>Fuentes de datos</strong> como Wikipedia y otras bases de datos geográficas.</li>
     </ul>
     <h2>📬 Contacto</h2>
-    <p>📧 Puedes contactarme en: <a href="mailto:andresmatthies640@gmail.com">andresmatthies640@gmail.com</a></p>
+    <p>📧 Puedes contactarme en: <code>andresmatthies640@gmail.com</code></p>
 </body>
 </html>
